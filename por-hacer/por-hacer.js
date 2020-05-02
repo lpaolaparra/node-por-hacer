@@ -21,7 +21,7 @@ const cargarDB = () =>{
         listadoPorHacer = require('../database/data.json');
 
     } catch (error) {
-        listadoPorHacer=[];
+        listadoPorHacer=[];       
     }
     
 }
